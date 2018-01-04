@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -E remo
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Johny\CLionProjects\PO_project
+CMAKE_SOURCE_DIR = C:\Users\Johny\CLionProjects\PO_Cpp_project
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Johny\CLionProjects\PO_project\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Johny\CLionProjects\PO_Cpp_project\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/PO_project.dir/depend.make
@@ -58,16 +58,16 @@ include CMakeFiles/PO_project.dir/flags.make
 
 CMakeFiles/PO_project.dir/main.cpp.obj: CMakeFiles/PO_project.dir/flags.make
 CMakeFiles/PO_project.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Johny\CLionProjects\PO_project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/PO_project.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PO_project.dir\main.cpp.obj -c C:\Users\Johny\CLionProjects\PO_project\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Johny\CLionProjects\PO_Cpp_project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/PO_project.dir/main.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PO_project.dir\main.cpp.obj -c C:\Users\Johny\CLionProjects\PO_Cpp_project\main.cpp
 
 CMakeFiles/PO_project.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PO_project.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Johny\CLionProjects\PO_project\main.cpp > CMakeFiles\PO_project.dir\main.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Johny\CLionProjects\PO_Cpp_project\main.cpp > CMakeFiles\PO_project.dir\main.cpp.i
 
 CMakeFiles/PO_project.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PO_project.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Johny\CLionProjects\PO_project\main.cpp -o CMakeFiles\PO_project.dir\main.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Johny\CLionProjects\PO_Cpp_project\main.cpp -o CMakeFiles\PO_project.dir\main.cpp.s
 
 CMakeFiles/PO_project.dir/main.cpp.obj.requires:
 
@@ -82,16 +82,16 @@ CMakeFiles/PO_project.dir/main.cpp.obj.provides.build: CMakeFiles/PO_project.dir
 
 CMakeFiles/PO_project.dir/classes.cpp.obj: CMakeFiles/PO_project.dir/flags.make
 CMakeFiles/PO_project.dir/classes.cpp.obj: ../classes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Johny\CLionProjects\PO_project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/PO_project.dir/classes.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PO_project.dir\classes.cpp.obj -c C:\Users\Johny\CLionProjects\PO_project\classes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Johny\CLionProjects\PO_Cpp_project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/PO_project.dir/classes.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PO_project.dir\classes.cpp.obj -c C:\Users\Johny\CLionProjects\PO_Cpp_project\classes.cpp
 
 CMakeFiles/PO_project.dir/classes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PO_project.dir/classes.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Johny\CLionProjects\PO_project\classes.cpp > CMakeFiles\PO_project.dir\classes.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Johny\CLionProjects\PO_Cpp_project\classes.cpp > CMakeFiles\PO_project.dir\classes.cpp.i
 
 CMakeFiles/PO_project.dir/classes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PO_project.dir/classes.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Johny\CLionProjects\PO_project\classes.cpp -o CMakeFiles\PO_project.dir\classes.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Johny\CLionProjects\PO_Cpp_project\classes.cpp -o CMakeFiles\PO_project.dir\classes.cpp.s
 
 CMakeFiles/PO_project.dir/classes.cpp.obj.requires:
 
@@ -106,16 +106,16 @@ CMakeFiles/PO_project.dir/classes.cpp.obj.provides.build: CMakeFiles/PO_project.
 
 CMakeFiles/PO_project.dir/terminal.cpp.obj: CMakeFiles/PO_project.dir/flags.make
 CMakeFiles/PO_project.dir/terminal.cpp.obj: ../terminal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Johny\CLionProjects\PO_project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/PO_project.dir/terminal.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PO_project.dir\terminal.cpp.obj -c C:\Users\Johny\CLionProjects\PO_project\terminal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Johny\CLionProjects\PO_Cpp_project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/PO_project.dir/terminal.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PO_project.dir\terminal.cpp.obj -c C:\Users\Johny\CLionProjects\PO_Cpp_project\terminal.cpp
 
 CMakeFiles/PO_project.dir/terminal.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PO_project.dir/terminal.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Johny\CLionProjects\PO_project\terminal.cpp > CMakeFiles\PO_project.dir\terminal.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Johny\CLionProjects\PO_Cpp_project\terminal.cpp > CMakeFiles\PO_project.dir\terminal.cpp.i
 
 CMakeFiles/PO_project.dir/terminal.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PO_project.dir/terminal.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Johny\CLionProjects\PO_project\terminal.cpp -o CMakeFiles\PO_project.dir\terminal.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Johny\CLionProjects\PO_Cpp_project\terminal.cpp -o CMakeFiles\PO_project.dir\terminal.cpp.s
 
 CMakeFiles/PO_project.dir/terminal.cpp.obj.requires:
 
@@ -144,7 +144,7 @@ PO_project.exe: CMakeFiles/PO_project.dir/build.make
 PO_project.exe: CMakeFiles/PO_project.dir/linklibs.rsp
 PO_project.exe: CMakeFiles/PO_project.dir/objects1.rsp
 PO_project.exe: CMakeFiles/PO_project.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Johny\CLionProjects\PO_project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable PO_project.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Johny\CLionProjects\PO_Cpp_project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable PO_project.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\PO_project.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -163,6 +163,6 @@ CMakeFiles/PO_project.dir/clean:
 .PHONY : CMakeFiles/PO_project.dir/clean
 
 CMakeFiles/PO_project.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Johny\CLionProjects\PO_project C:\Users\Johny\CLionProjects\PO_project C:\Users\Johny\CLionProjects\PO_project\cmake-build-debug C:\Users\Johny\CLionProjects\PO_project\cmake-build-debug C:\Users\Johny\CLionProjects\PO_project\cmake-build-debug\CMakeFiles\PO_project.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Johny\CLionProjects\PO_Cpp_project C:\Users\Johny\CLionProjects\PO_Cpp_project C:\Users\Johny\CLionProjects\PO_Cpp_project\cmake-build-debug C:\Users\Johny\CLionProjects\PO_Cpp_project\cmake-build-debug C:\Users\Johny\CLionProjects\PO_Cpp_project\cmake-build-debug\CMakeFiles\PO_project.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/PO_project.dir/depend
 

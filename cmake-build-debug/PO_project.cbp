@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="PO_project">
-				<Option output="C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/PO_project.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug"/>
+				<Option output="C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/PO_project.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -33,15 +33,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 PO_project"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 PO_project"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="PO_project/fast">
-				<Option output="C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/PO_project.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug"/>
+				<Option output="C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/PO_project.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -55,49 +55,49 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 PO_project/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 PO_project/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Johny/CLionProjects/PO_project/classes.cpp">
+		<Unit filename="C:/Users/Johny/CLionProjects/PO_Cpp_project/classes.cpp">
 			<Option target="PO_project"/>
 		</Unit>
-		<Unit filename="C:/Users/Johny/CLionProjects/PO_project/classes.h">
+		<Unit filename="C:/Users/Johny/CLionProjects/PO_Cpp_project/classes.h">
 			<Option target="PO_project"/>
 		</Unit>
-		<Unit filename="C:/Users/Johny/CLionProjects/PO_project/main.cpp">
+		<Unit filename="C:/Users/Johny/CLionProjects/PO_Cpp_project/main.cpp">
 			<Option target="PO_project"/>
 		</Unit>
-		<Unit filename="C:/Users/Johny/CLionProjects/PO_project/terminal.cpp">
+		<Unit filename="C:/Users/Johny/CLionProjects/PO_Cpp_project/terminal.cpp">
 			<Option target="PO_project"/>
 		</Unit>
-		<Unit filename="C:/Users/Johny/CLionProjects/PO_project/terminal.h">
+		<Unit filename="C:/Users/Johny/CLionProjects/PO_Cpp_project/terminal.h">
 			<Option target="PO_project"/>
 		</Unit>
-		<Unit filename="C:/Users/Johny/CLionProjects/PO_project/CMakeLists.txt">
+		<Unit filename="C:/Users/Johny/CLionProjects/PO_Cpp_project/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

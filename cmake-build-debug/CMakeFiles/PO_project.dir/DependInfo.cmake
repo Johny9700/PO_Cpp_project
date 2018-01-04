@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Johny/CLionProjects/PO_project/classes.cpp" "C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/CMakeFiles/PO_project.dir/classes.cpp.obj"
-  "C:/Users/Johny/CLionProjects/PO_project/main.cpp" "C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/CMakeFiles/PO_project.dir/main.cpp.obj"
-  "C:/Users/Johny/CLionProjects/PO_project/terminal.cpp" "C:/Users/Johny/CLionProjects/PO_project/cmake-build-debug/CMakeFiles/PO_project.dir/terminal.cpp.obj"
+  "C:/Users/Johny/CLionProjects/PO_Cpp_project/classes.cpp" "C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/CMakeFiles/PO_project.dir/classes.cpp.obj"
+  "C:/Users/Johny/CLionProjects/PO_Cpp_project/main.cpp" "C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/CMakeFiles/PO_project.dir/main.cpp.obj"
+  "C:/Users/Johny/CLionProjects/PO_Cpp_project/terminal.cpp" "C:/Users/Johny/CLionProjects/PO_Cpp_project/cmake-build-debug/CMakeFiles/PO_project.dir/terminal.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
